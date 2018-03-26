@@ -5,9 +5,10 @@ body {
     text-transform: uppercase;
     letter-spacing: .5em;
     top: 15%;
-	background: linear-gradient(to right, red , yellow); /* Standard syntax */
+	background: linear-gradient(to right, rgb(255,134,0) , rgb(166,0,255)); /* Standard syntax */
 }
 
+/* */
 h1 {
     font: 600 3.5em 'Raleway', sans-serif;
     color: rgba(0,0,0,.5);

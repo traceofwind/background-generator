@@ -1,0 +1,19 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "A background generator using javascript.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/traceofwind/background-generator.git"
+  },
+  "author": "Gary Hicks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/traceofwind/background-generator/issues"
+  },
+  "homepage": "https://github.com/traceofwind/background-generator#readme"
+}
